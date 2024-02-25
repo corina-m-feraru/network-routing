@@ -1,24 +1,5 @@
 # README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This is the link to clone the repo locally ``` https://github.com/corina-m-feraru/network-routing ```
+In order to call the service and verify results please type ``` rails connected_routers:get ``` in your rails console.
+In order to run all the tests just simply run rspec -- as it is just 2 tests within the repo - it should be pretty fast.
+Thank you!
